@@ -4,6 +4,9 @@ The Plotly Project with Roza  is a comprehensive project where samples of bacter
 ## Overview: 
 Four Deliverables as listed below were presented at the end of the Project with some modifications made in the form of labels added.
 
+![image](https://user-images.githubusercontent.com/114967995/229700167-cccdd314-d170-4c67-931c-5980b92bf951.png)
+
+
 ### Deliverable 1: A Horizontal Bar Chart
 
 ![image](https://user-images.githubusercontent.com/114967995/229698634-1c2f9b4a-0a17-49bd-bfef-3d355eac8fca.png)
