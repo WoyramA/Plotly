@@ -16,5 +16,5 @@ Four Deliverables as listed below were presented at the end of the Project with 
 
 ![image](https://user-images.githubusercontent.com/114967995/229699121-b318fcb4-4e35-40c2-97a6-3f8be8f072b5.png)
 
-### Deliverable 4: Customize the Dashboard
+### Deliverable 4: Customized Dashboard
 Samples collected of bacteria found in the belly button of volunteers is shown on an interactive dashboard at https://woyrama.github.io/Plotly/ .
